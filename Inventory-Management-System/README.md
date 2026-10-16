@@ -28,10 +28,10 @@ A Java Swing desktop application for managing products, suppliers, customers and
 **Requirements:** JDK 8 or newer (tested with JDK 21).
 
 ```bash
-git clone https://github.com/rimonabdullah-dev/inventory-management-system.git
-cd inventory-management-system/src
-javac *.java
-java Main
+   git clone https://github.com/rimonabdullah-dev/Inventory-Management-System.git
+   cd Inventory-Management-System/Inventory-Management-System
+   javac *.java
+   java Main
 ```
 
 Or open the project in IntelliJ IDEA, make sure all `.java` files are in the source root, and run `Main.java`.
